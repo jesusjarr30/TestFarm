@@ -1,0 +1,36 @@
+<table> 
+
+    <thead>
+        <tr>
+          <th scope="col">ID</th>
+          <th scope="col">Titulo</th>
+          <th scope="col">Descripcion</th>
+          <th scope="col">Imagen</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let prod of listaProductos">
+          <td>{{prod.id}}</td>
+          <td>{{prod.title}}</td>
+          <td>{{prod.description}}</td>
+          <td><img [src]="prod.imagen" style="max-width: 100px; max-height: 100px;"></td>
+          <td>
+            <button (click)="selecionar(prod)">Selecionar</button>
+          </td>
+        </tr>
+    </tbody>
+</table>
+<label>Titulo </label>
+<input type="text" [(ngModel)]="selectP.title">
+<br>
+<label>Descripcion</label>
+<input type="text" [(ngModel)]="selectP.description">
+<br>
+<label>Imagen</label>
+<input type="text" [(ngModel)]="selectP.imagen">
+
+<br>
+<button (click)="Modificar()"> Modificar </button>
+<br>
+<button (click)="Eliminar()"> Eliminar  </button>
+

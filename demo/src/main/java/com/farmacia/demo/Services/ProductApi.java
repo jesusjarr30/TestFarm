@@ -48,7 +48,6 @@ public class ProductApi {
         mapa.remove("id");
         //en el mapa tenemos todas las entradas que se sedesn modificar de la clase que selecionaron
 
-
         for (Map.Entry<String, Object> entry : mapa.entrySet()){
             String key = entry.getKey();
 

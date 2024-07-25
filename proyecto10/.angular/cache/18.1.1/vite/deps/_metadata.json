@@ -1,0 +1,67 @@
+{
+  "hash": "979906d4",
+  "configHash": "12e0cf83",
+  "lockfileHash": "db91c0e5",
+  "browserHash": "69779efc",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "e101a112",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ef655301",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "1ec57d01",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "7ec8af33",
+      "needsInterop": false
+    },
+    "@ng-bootstrap/ng-bootstrap": {
+      "src": "../../../../../node_modules/@ng-bootstrap/ng-bootstrap/fesm2022/ng-bootstrap.mjs",
+      "file": "@ng-bootstrap_ng-bootstrap.js",
+      "fileHash": "999e5c07",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "d68220af",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "b0642500",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ZPVWFWT7": {
+      "file": "chunk-ZPVWFWT7.js"
+    },
+    "chunk-WFUGQ3FZ": {
+      "file": "chunk-WFUGQ3FZ.js"
+    },
+    "chunk-MYXJKJ4Q": {
+      "file": "chunk-MYXJKJ4Q.js"
+    },
+    "chunk-4U67QJQH": {
+      "file": "chunk-4U67QJQH.js"
+    },
+    "chunk-FMUTIVXU": {
+      "file": "chunk-FMUTIVXU.js"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+<div class="container">
+    <div class="text">
+      Registro producto
+    </div>
+    <form action="#">
+      <div class="form-row">
+        <div class="input-data">
+          <input type="text"  [(ngModel)]="paraRegistro.title" [ngModelOptions]="{standalone: true}" required>
+          <div class="underline"></div>
+          <label for="">Titulo</label>
+        </div>
+        <div class="input-data">
+          <input type="text"  [(ngModel)]="paraRegistro.description" [ngModelOptions]="{standalone: true}" required>
+          <div class="underline"></div>
+          <label for="">Descripcion</label>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="input-data">
+          <input type="text"  [(ngModel)]="paraRegistro.imagen" [ngModelOptions]="{standalone: true}" required>
+          <div class="underline"></div>
+          <label for="">URL imagen</label>
+        </div>
+        
+      </div>
+      
+      <div class="form-row submit-btn">
+        <div class="input-data">
+          <div class="inner"></div>
+          <input (click)="onSubmint()" value="submit">
+        </div>
+      </div>
+    </form>
+  </div>
+  
