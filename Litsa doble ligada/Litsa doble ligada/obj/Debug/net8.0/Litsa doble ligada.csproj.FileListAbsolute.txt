@@ -1,0 +1,15 @@
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\bin\Debug\net8.0\Litsa doble ligada.exe
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\bin\Debug\net8.0\Litsa doble ligada.deps.json
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\bin\Debug\net8.0\Litsa doble ligada.runtimeconfig.json
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\bin\Debug\net8.0\Litsa doble ligada.dll
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\bin\Debug\net8.0\Litsa doble ligada.pdb
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\Litsa doble ligada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\Litsa doble ligada.AssemblyInfoInputs.cache
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\Litsa doble ligada.AssemblyInfo.cs
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\Litsa doble ligada.csproj.CoreCompileInputs.cache
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\Litsa doble ligada.sourcelink.json
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\Litsa doble ligada.dll
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\refint\Litsa doble ligada.dll
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\Litsa doble ligada.pdb
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\Litsa doble ligada.genruntimeconfig.cache
+C:\Users\chuyi\OneDrive\Documentos\Practica_Angular\Litsa doble ligada\Litsa doble ligada\obj\Debug\net8.0\ref\Litsa doble ligada.dll
