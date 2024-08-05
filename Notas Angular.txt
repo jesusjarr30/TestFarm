@@ -1,0 +1,4 @@
+Para generar un proyecto con Angular con el app modules 
+es necesario tener esta parte del --no-stalone 
+
+ng new  projectName --no-standalone

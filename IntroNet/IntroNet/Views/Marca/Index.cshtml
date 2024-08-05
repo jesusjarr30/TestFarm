@@ -1,0 +1,25 @@
+﻿@model List<Marca>
+
+<h1>Marcas </h1>
+<table>
+
+
+    <thead>
+        <tr>
+            <th>Nombre</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var mol in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(mbox => mol.Nombre)
+                </td>
+            </tr>
+
+        }
+
+    </tbody>
+</table>
